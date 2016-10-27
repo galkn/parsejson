@@ -1,6 +1,6 @@
 {
   "name": "parsejson",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Method that parses a JSON string and returns a JSON object",
   "repository": {
     "type": "git",
@@ -11,9 +11,10 @@
     "test": "make test"
   },
   "devDependencies": {
-    "mocha": "1.17.1"
+    "mocha": "1.17.1",
+    "better-assert": "~1.0.0"
   },
-  "author": "",
+  "author": "Gal Koren",
   "license": "MIT",
   "dependencies": {
     "better-assert": "~1.0.0"
