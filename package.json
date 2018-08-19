@@ -11,11 +11,10 @@
     "test": "mocha test.js"
   },
   "devDependencies": {
-    "mocha": "1.17.1",
-    "expect.js": "^0.3.1"
+    "expect.js": "^0.3.1",
+    "mocha": "^5.2.0"
   },
   "author": "Gal Koren. modified by Dario Cangialosi to simplify it.",
   "license": "MIT",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
