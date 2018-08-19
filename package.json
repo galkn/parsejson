@@ -8,15 +8,14 @@
   },
   "homepage": "https://github.com/get/parsejson",
   "scripts": {
-    "test": "make test"
+    "test": "mocha test.js"
   },
   "devDependencies": {
     "mocha": "1.17.1",
-    "better-assert": "~1.0.0"
+    "expect.js": "^0.3.1"
   },
-  "author": "Gal Koren",
+  "author": "Gal Koren. modified by Dario Cangialosi to simplify it.",
   "license": "MIT",
   "dependencies": {
-    "better-assert": "~1.0.0"
   }
 }

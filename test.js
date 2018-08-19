@@ -1,4 +1,3 @@
-var assert = require('better-assert');
 var expect = require('expect.js');
 var parsejson = require('./index.js');
 
